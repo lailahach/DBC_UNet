@@ -1,0 +1,29 @@
+Groupe : Laila HACHIMI EL IDRISSI & Siham TAOUZI
+Projet : Hybrid Depthwise Convolution Bottleneck in a UNet Architecture for Advanced Brain Tumor Segmentation
+
+# Instructions d'installation et d'exécution du projet
+
+# Lien du code source : https://colab.research.google.com/drive/1uda_vx38OuxNBPCBeiJrywGHviJ6Hs9u?usp=sharing
+
+## 1️⃣ Pré-requis
+- Installer Python 3.10 ou plus récent
+- Installer pip (gestionnaire de paquets Python)
+
+## 2️⃣ Installer les dépendances
+Les bibliothèques nécessaires sont listées dans le fichier requirements.txt.
+
+## 3️⃣ Télécharger les données
+Télécharger le dataset depuis le lien suivant et l'extraire dans le dossier `data/` :
+
+    https://drive.google.com/file/d/16qmwGAcVNTC5ycX-wV-Yqm-tCdCsR2Ji/view?usp=drive_link
+
+## 4️⃣ Télécharger les checkpoints
+Télécharger le dossier contenant les checkpoints (poids du modèle + historique des métriques) et le placer dans `checkpoints/` :
+
+    https://drive.google.com/file/d/1MrGebwk6vkcSOxsxc2jsgS18Ry1CG5rW/view?usp=sharing
+
+## 5️⃣ Lancer l'entraînement
+Exécuter les cellules du Notebook 
+
+## 6️⃣ Visualiser les résultats
+Les courbes de perte, précision et les sorties de segmentation seront affichées.

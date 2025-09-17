@@ -1,0 +1,26 @@
+Groupe : Laila HACHIMI EL IDRISSI & Siham TAOUZI
+Projet : Hybrid Depthwise Convolution Bottleneck in a UNet Architecture for Advanced Brain Tumor Segmentation
+
+# Fichier requirements.txt
+# Lien du code source : https://colab.research.google.com/drive/1uda_vx38OuxNBPCBeiJrywGHviJ6Hs9u?usp=sharing
+# Bibliothèques Python nécessaires au projet
+
+- PIL Bibliothèque de traitement d’images en Python.
+- IPython Environnement interactif amélioré pour Python.
+- numpy Bibliothèque de calcul numérique de base
+- tifffile Bibliothèque spécialisée dans la lecture et l’écriture de fichiers TIFF (souvent utilisés en imagerie médicale ou scientifique).
+- torch Framework d’apprentissage profond (Deep Learning).
+- torchvision Extension de PyTorch dédiée au traitement d’images.
+- matplotlib Bibliothèque de visualisation en Python.
+- seaborn Bibliothèque de visualisation statistique construite sur Matplotlib.
+- imageio Bibliothèque pour lire et écrire des images dans de nombreux formats.
+
+# Liens utiles
+# Lien du code Github:
+# https://github.com/lailahach/DBC_UNet/blob/main/DCB_Unet_final.ipynb
+# Lien pour télécharger le dataset
+# https://drive.google.com/file/d/16qmwGAcVNTC5ycX-wV-Yqm-tCdCsR2Ji/view?usp=drive_link
+
+# Lien pour les checkpoints (raccourci contenant tous les epochs entraînés et l'historique des métriques)
+# https://drive.google.com/file/d/1MrGebwk6vkcSOxsxc2jsgS18Ry1CG5rW/view?usp=sharing
+
